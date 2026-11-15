@@ -16,7 +16,6 @@ env:
   UBOOT_BURNIMG: eMMC.burn.img
   ARMBIAN_REPO: armbian/build
   ARMBIAN_REF: main
-  PATCHES: 5076
   PATCHES_DISABLED: 5082
 
 permissions:
