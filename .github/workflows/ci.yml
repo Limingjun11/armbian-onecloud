@@ -158,6 +158,7 @@ jobs:
         run: |
           # Don't update remote cache
           export GITHUB_ACTIONS=false
+          sed -i 's/driver_rtl8189ES() {/driver_rtl8189ES() { return 0;/' lib/functions/compilation/patch/drivers_network.sh
           sudo --preserve-env \
             ./compile.sh kernel \
               ALLOW_ROOT=yes \
