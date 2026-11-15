@@ -7,7 +7,6 @@
 
 **The desktop environment was replaced with LXQt instead of the original Xfce.**
 
-**All modifications have been submitted to [the official repository](https://github.com/armbian/build) and you can directly use the official repository for compilation.**
 
 ## First-time login
 
@@ -59,6 +58,8 @@ NOTE: These pins in the `dts` were measured on `V1.0 board` and have not been ve
 ## Related link
 
 [`armbian/build`](https://github.com/armbian/build) - Armbian official repository
+
+[`hzyitc/armbian-onecloud`](https://github.com/hzyitc/armbian-onecloud) - Original repository
 
 [`xdarklight/linux@meson-mx-integration-5.18-20220417`](https://github.com/xdarklight/linux/tree/meson-mx-integration-5.18-20220417) - the source code of `HDMI` patch
 
