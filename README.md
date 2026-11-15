@@ -3,7 +3,8 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
-**Please note: this fork only has builds enabled for Ubuntu 22.04 LTS and Debian 12 Bookworm.**
+**Please note: this fork only has builds enabled for Ubuntu 24.04 LTS and Debian 12 Bookworm.**
+**The desktop environment was replaced with LXQt instead of the original Xfce.**
 
 **All modifications have been submitted to [the official repository](https://github.com/armbian/build) and you can directly use the official repository for compilation.**
 
