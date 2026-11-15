@@ -8,7 +8,7 @@
 
 **桌面环境被替换为LXQt而不是原本的Xfce**
 
-**所有修改均已提交至[官方仓库](https://github.com/armbian/build)，您可以直接使用[官方仓库](https://github.com/armbian/build)进行编译。**
+
 
 ## 第一次登录
 
@@ -62,5 +62,7 @@ fatload ${bootdev} 0x20800000 boot.scr && autoscr 0x20800000
 [`armbian/build`](https://github.com/armbian/build) - Armbian官方仓库
 
 [`xdarklight/linux@meson-mx-integration-5.18-20220516`](https://github.com/xdarklight/linux/commits/meson-mx-integration-5.18-20220516) - `HDMI`补丁源码
+
+[`hzyitc/armbian-onecloud`](https://github.com/hzyitc/armbian-onecloud) - 原仓库
 
 [`S805_Datasheet V0.8 20150126.pdf`](https://dn.odroid.com/S805/Datasheet/S805_Datasheet%20V0.8%2020150126.pdf) - S805数据手册
