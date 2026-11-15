@@ -3,6 +3,8 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
+Please note: this fork only has builds enabled for Ubuntu 22.04 LTS and Debian 12 Bookworm.
+
 **All modifications have been submitted to [the official repository](https://github.com/armbian/build) and you can directly use the official repository for compilation.**
 
 ## First-time login
