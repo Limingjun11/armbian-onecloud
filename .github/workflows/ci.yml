@@ -15,7 +15,7 @@ env:
   UBOOT_RELEASE: latest
   UBOOT_BURNIMG: eMMC.burn.img
   ARMBIAN_REPO: armbian/build
-  ARMBIAN_REF: main
+  ARMBIAN_REF: v23.08
   PATCHES_DISABLED: 5082
 
 permissions:
