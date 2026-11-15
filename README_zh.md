@@ -4,6 +4,8 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
+**请注意：这个Fork只启用了Ubuntu 22.04 LTS和Debian 12 Bookworm的构建**
+
 **所有修改均已提交至[官方仓库](https://github.com/armbian/build)，您可以直接使用[官方仓库](https://github.com/armbian/build)进行编译。**
 
 ## 第一次登录
