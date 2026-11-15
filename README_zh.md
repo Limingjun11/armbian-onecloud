@@ -6,6 +6,8 @@
 
 **请注意：这个Fork只启用了Ubuntu 22.04 LTS和Debian 12 Bookworm的构建**
 
+**桌面环境被替换为LXQt而不是原本的Xfce**
+
 **所有修改均已提交至[官方仓库](https://github.com/armbian/build)，您可以直接使用[官方仓库](https://github.com/armbian/build)进行编译。**
 
 ## 第一次登录
